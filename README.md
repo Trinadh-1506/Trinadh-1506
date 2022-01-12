@@ -9,6 +9,7 @@ I'm Trinadh Reddy Eedara who likes to explore new technologies and develop softw
   * Mobile application & development(Android Studio)
   * Data Structures and Algorithms
   * Java programming language
+  * Data Science in R
 
 ### 💻Languages 
   * java
@@ -17,6 +18,7 @@ I'm Trinadh Reddy Eedara who likes to explore new technologies and develop softw
   * javascript
   * nodejs
   * php
+  * R
 
 ### 👨‍💻frameworks & Libraries
   * angularjs
